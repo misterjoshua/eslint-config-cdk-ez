@@ -1,11 +1,16 @@
 {
-  "name": "eslint-config-cdk-ez",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Josh Kellendonk",
-  "license": "ISC"
+  "description": "",
+  "name": "eslint-config-cdk-ez",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {},
+  "license": "MIT",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "2.x",
+    "@typescript-eslint/parser": "2.x",
+    "eslint-config-prettier": "6.x",
+    "eslint-plugin-prettier": "3.x",
+    "eslint": "6.x"
+  }
 }
