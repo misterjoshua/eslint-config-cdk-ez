@@ -2,7 +2,7 @@
   "author": "Josh Kellendonk",
   "description": "",
   "name": "eslint-config-cdk-ez",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "scripts": {},
   "license": "MIT",
